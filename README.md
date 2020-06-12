@@ -1,4 +1,12 @@
-# PSVita UDCD USB Video Class plugin
+# PSVita 60 FPS UDCD USB Video Class plugin
+
+## IMPORTANT: PLEASE READ 
+
+This is my own edit of xerpi's udcd plugin found [here]https://github.com/xerpi/vita-udcd-uvc .  The original plugin on Autoplugin and his released version run at 544p, with almost 60 fps.  
+
+However, I wanted an even smoother experience and modified it so that the plugin would run at full 60 fps, at 488p instead.  Visual difference is negligible, but it runs a lot smoother.
+
+Thanks to Xerpi for helping me modify this.
 
 ## What's this?
 
