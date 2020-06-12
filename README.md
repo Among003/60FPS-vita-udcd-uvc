@@ -6,6 +6,8 @@ This is my own edit of xerpi's udcd plugin found [here]https://github.com/xerpi/
 
 However, I wanted an even smoother experience and modified it so that the plugin would run at full 60 fps, at 488p instead.  Visual difference is negligible, but it runs a lot smoother.
 
+This is much like how xCorra's plugin was, however, that was based off of ucdc-uvc when system apps were still not working.  This is based off 1.5 and includes all changes since, including fixed system apps.
+
 Thanks to Xerpi for helping me modify this.
 
 ## What's this?
